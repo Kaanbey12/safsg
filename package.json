@@ -1,0 +1,15 @@
+{
+  "name": "ccdcode-rpc",
+  "version": "1.0.1",
+  "description": "Ccd Code Discord RPC",
+  "main": "ccd.js",
+  "dependencies": {
+    "discord-rpc": "git+https://github.com/djs/discord-rpc.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CCD",
+  "license": "ISC"
+}
